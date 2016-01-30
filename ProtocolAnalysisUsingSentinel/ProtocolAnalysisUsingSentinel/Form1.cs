@@ -16,5 +16,12 @@ namespace ProtocolAnalysisUsingSentinel
         {
             InitializeComponent();
         }
+
+        public bool testCode()
+        {
+            bool Result = false;
+
+            return Result;
+        }
     }
 }
